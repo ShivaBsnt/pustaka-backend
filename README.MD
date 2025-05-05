@@ -60,9 +60,11 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Please follow these steps:
-1.Fork the repository.
+
+1. Fork the repository.
 2. Create a new branch:
 
 ```console 
