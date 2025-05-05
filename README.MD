@@ -1,8 +1,8 @@
-📚 Pustaka Backend – SSO Service
+# 📚 Pustaka SSO Service
 
 Pustaka Backend is a Django-based RESTful API that functions as the Single Sign-On (SSO) authentication service for the Pustaka platform. It centralizes user authentication, enabling seamless and secure access across various Pustaka services.
 
-🔐 Key Features
+## 🔐 Key Features
 * Centralized Authentication: Provides a unified login system for all Pustaka applications.
 
 * OAuth 2.0 Support: Implements OAuth 2.0 protocols for secure and standardized authentication.
@@ -22,7 +22,7 @@ Pustaka Backend is a Django-based RESTful API that functions as the Single Sign-
 * Database: SQLite (default; configurable to PostgreSQL or MySQL)
 
 
-📂 Project Structure
+## 📂 Project Structure
 ```console
 pustaka-backend/
 ├── client/             # Frontend client (if applicable)
@@ -33,7 +33,7 @@ pustaka-backend/
 ├── manage.py           # Django's command-line utility
 ├── .gitignore          # Git ignore file
 ```
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
@@ -79,6 +79,7 @@ git push origin feature/YourFeatureName
 5. Open a Pull Request.
 
 📜 License
+
 This project is dual-licensed:
 
 1. Code: **MIT License** – Permits reuse, modification, and distribution of the software.
