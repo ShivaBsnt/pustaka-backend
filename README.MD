@@ -81,11 +81,12 @@ git push origin feature/YourFeatureName
 📜 License
 This project is dual-licensed:
 
-Code: MIT License – Permits reuse, modification, and distribution of the software.
+1. Code: **MIT License** – Permits reuse, modification, and distribution of the software.
 
-Documentation: Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) – Allows others to remix, tweak, and build upon the work non-commercially, as long as they credit the author.
+2. Documentation: **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)** – Allows others to remix, tweak, and build upon the work non-commercially, as long as they credit the author.
 
 For more details, refer to the [LICENSE](https://github.com/ShivaBsnt/pustaka-backend/tree/master/licenses) file.
 
 📬 Contact
+
 For any inquiries or feedback, please email me at [shivabahadurbasnet313@gmail.com](mailto:shivabahadurbasnet313@gmail.com).
